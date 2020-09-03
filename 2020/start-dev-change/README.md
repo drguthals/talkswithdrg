@@ -1,11 +1,11 @@
 # Start. Dev. Change. 2020
 
-[Microsoft Start. Dev. Change.](https://www.microsoft.com/en-us/ignite) is a conference for the *novice* developers.  
+[Microsoft Start. Dev. Change.](https://startdevchange.com/) is a conference for the *novice* developers.  
 
 ### Conference Info
 - Dates: October 14-15, 2020
 - Location: Digital
-- Registration: Coming Soon!
+- Registration: [RSVP on the Website Today!](https://startdevchange.com/)
 
 ### Talks
 
