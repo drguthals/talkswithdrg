@@ -1,5 +1,3 @@
-# Intro To GitHub
-
 # Intro to GitHub
 
 < Description Coming >
