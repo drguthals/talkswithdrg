@@ -13,5 +13,5 @@ Resources for my talks can be found by clicking on the title the following table
 
 | Title | Description | Date | Time |
 |-------|-------------|------|------|
-| [Intro to GitHub]() | TBD | TBD | TBD |
+| [Intro to GitHub](https://github.com/sguthals/talkswithdrg/tree/main/ignite/2020/intro-to-github) | TBD | TBD | TBD |
 | [The Data Behind Space Exploration with NASA]() | TBD | TBD | TBD |
