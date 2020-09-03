@@ -9,4 +9,4 @@ Find the event+talk below for more information!
 | Event | Dates | Registration |
 |-------|-------| ------------ |
 | [Micorosft Ignite 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/ignite/README.md) | September 22-24, 2020 |  [Sign up for updates on the website](https://www.microsoft.com/en-us/ignite) |
-| Microsoft Build 2020(https://github.com/sguthals/talkswithdrg/blob/main/2020/build/README.md) | May 19 - 21, 2020 | Closed |
+| Microsoft Build 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/build/README.md) | May 19 - 21, 2020 | Closed |
