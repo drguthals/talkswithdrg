@@ -14,5 +14,3 @@ let shareboardFull = fs.readdirSync( path.join( __dirname, "notes" ) )
 
 // Save the Markdown
 fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
-
-const Web = require( "webwebweb" ).Run( 8000 );
