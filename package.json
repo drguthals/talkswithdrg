@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sguthals/talkswithdrg#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
-    "@actions/github": "^4.0.0"
+    "@actions/github": "^4.0.0",
+    "webwebweb": "^1.4.0"
   }
 }
