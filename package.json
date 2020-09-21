@@ -1,0 +1,24 @@
+{
+  "name": "talkswithdrg",
+  "version": "1.0.0",
+  "description": "Thanks for attending one of my talks!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguthals/talkswithdrg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sguthals/talkswithdrg/issues"
+  },
+  "homepage": "https://github.com/sguthals/talkswithdrg#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.5",
+    "@actions/github": "^4.0.0"
+  }
+}
