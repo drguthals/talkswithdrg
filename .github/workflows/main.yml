@@ -15,7 +15,7 @@ jobs:
         branch: main
         file_pattern: 2020/ignite/notes/*.md
         # Optional local file path to the repository
-        repository: ../../../.
+        repository: sguthals/talkswithdrg
      
         # Optional commit user and author settings
         commit_user_name: My GitHub Actions Bot
