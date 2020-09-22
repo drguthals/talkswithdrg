@@ -31,7 +31,7 @@ try {
     // replace the owner and email with your own details
     owner: "sguthals",
     repo: "talksWithDrG",
-    path: path.join( __dirname, "ignite-shareboard.md" ),
+    path: "ignite-shareboard.md",
     message: "feat: Added ignite-shareboard.md programatically",
     content: shareboardFull,
     committer: {
