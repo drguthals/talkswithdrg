@@ -9,11 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:    
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Getting all of the md file contents
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
-    - name: Checkout
-      uses: actions/checkout@v2
+      with:
+        file: 2020/ignite/intro-to-github/ignite-shareboard.md
     - name: Copy contents and push
       run: |
           ${{ steps.collect.shareboardContents }} > 2020/ignite/intro-to-github/ignite-shareboard.md

@@ -15,14 +15,14 @@ try {
   console.log( "Shareboard contents:\n");
   console.log(shareboardFull);
 
-  //console.log("Writing to the markdown file")
-  //fs.writeFileSync( "SHAREBOARD.md", shareboardFull );
+  console.log("Writing to the markdown file")
+  fs.writeFileSync( core.getInput('file'), shareboardFull );
 
   //console.log("NOT WORKING NOW: Setting the contents to the output");
   //core.setOutput("contents", "SHAREBOARD.md");
 
-  console.log("Setting a variable to the contents");
-  core.exportVariable('shareboardContents', shareboardFull);
+  //console.log("Setting a variable to the contents");
+  //core.exportVariable('shareboardContents', shareboardFull);
 
 } catch (error) {
   core.setFailed(error.message);
