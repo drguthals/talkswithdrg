@@ -15,7 +15,7 @@ jobs:
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
       with:
-        file: ignite-shareboard.md
+        file: 2020/ignite/intro-to-github/ignite-shareboard.md
     - name: Copy contents and push
       run: |
           git config user.name Sarah Guthals
