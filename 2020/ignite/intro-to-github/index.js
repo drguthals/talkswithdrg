@@ -17,7 +17,7 @@ async function run() {
   
     console.log( "Shareboard contents:\n");
     console.log(shareboardFull);
-
+/*
     console.log("Attempting to update file with octokit");
   
     await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
@@ -27,10 +27,10 @@ async function run() {
       message: 'updating with a new content',
       content: shareboardFull
     })
-
-    //console.log("Attempting to update the contents with the notes folder")
+*/
+    console.log("Attempting to update the contents with the notes folder")
     // Save the Markdown
-    //fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
+    fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
   
     //console.log("Ignite shareboard now has:\n");
     //console.log(fs.readdirSync( path.join( __dirname, "ignite-shareboard.md") ));

@@ -1,4 +1,7 @@
-on: [push]
+on: 
+  push:
+    paths:
+      - '2020/ignite/intro-to-github/notes/*.md'
 
 jobs:
   update_shareboard_job:
