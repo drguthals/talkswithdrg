@@ -15,7 +15,7 @@ jobs:
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
     - name: 'Create a file'
-      run: echo ${{ steps.collect.outputs.contents }} > ignite-shareboard.md
+      run: ${{ steps.collect.outputs.contents }} > ignite-shareboard.md
     - name: push
       uses: actions-x/commit@v2
       with:
