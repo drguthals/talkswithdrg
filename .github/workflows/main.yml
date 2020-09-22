@@ -20,7 +20,7 @@ jobs:
         email: sarah@guthals.com
         name: Sarah Guthals
         branch: main
-        files: /2020/ignite/intro-to-github/ignite-shareboard.md
+        files: "/2020/ignite/intro-to-github/ignite-shareboard.md"
         repository: https://github.com/sguthals/talkswithdrg
         token: ${{ secrets.MY_SECRET_TOKEN }}
         force: true
