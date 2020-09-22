@@ -14,13 +14,12 @@ jobs:
     - name: Getting all of the md file contents
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
+    - name: 'Create a file'
+      run: echo ${{ steps.hello.outputs.contents }} > ignite-shareboard.md
     - name: push
       uses: actions-x/commit@v2
       with:
         email: sarah@guthals.com
         name: Sarah Guthals
-        branch: main
-        files: "/2020/ignite/intro-to-github/ignite-shareboard.md"
-        repository: https://github.com/sguthals/talkswithdrg
-        token: ${{ secrets.MY_SECRET_TOKEN }}
+        files: ignite-shareboard.md
         force: true

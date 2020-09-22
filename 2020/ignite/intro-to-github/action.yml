@@ -1,5 +1,8 @@
 name: 'Welcome to the Shareboard'
 description: 'Add learners to the shareboard'
+outputs:
+  contents:
+    description: 'The contents from the notes folder'
 runs:
   using: 'node12'
   main: 'index.js'

@@ -1,3 +1,5 @@
+const core = require('@actions/core');
+const github = require('@actions/github');
 const fs = require( "fs" );
 const path = require( "path" );
 
@@ -13,8 +15,9 @@ try {
   console.log( "Shareboard contents:\n");
   console.log(shareboardFull);
 
-  console.log("Writing to ignite-shareboard.md");
-  fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
+  console.log("Setting the contents to the output");
+  core.setOutput("contents", shareboardFull);
+
 } catch (error) {
   core.setFailed(error.message);
 }
