@@ -8,18 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-    - name: checkout
-      uses: actions/checkout@v2
+    steps:    
     - name: Getting all of the md file contents
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
-    - name: 'Create a file'
-      run: ${{ steps.collect.shareboardContents }} > ignite-shareboard.md
-    - name: push
-      uses: actions-x/commit@v2
-      with:
-        email: sarah@guthals.com
-        name: Sarah Guthals
-        files: 2020/ignite/intro-to-github/ignite-shareboard.md
-        force: true
+    - name: checkout
+      uses: actions/checkout@v2
+      run: |
+          ${{ steps.collect.shareboardContents }} > 2020/ignite/intro-to-github/ignite-shareboard.md
+          git config user.name Sarah Guthals
+          git config user.email sarah@guthals.com
+          git add .
+          git commit -m "pushing"
+          git push
+
