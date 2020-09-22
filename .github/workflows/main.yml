@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: sguthals/talkswithdrg@v1.1
+      uses: sguthals/talkswithdrg
       with:
         who-to-greet: 'Mona the Octocat'
     # Use the output from the `hello` step
