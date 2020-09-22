@@ -18,14 +18,14 @@ try {
   console.log(`The event payload: ${payload}`);
 
   console.log( "Scanning Social Shareboard entries..." );
-  let shareboardFull = fs.readdirSync( path.join( __dirname, "notes" ) )
+  let shareboardFull = fs.readdirSync( path.join( __dirname, "2020/ignite/intro-to-github/notes" ) )
     .filter( file => path.extname( file ).toLowerCase() === ".md" )
     .filter( file => file !== "sample.md" )
-    .map( file => fs.readFileSync( path.join( __dirname, "notes", file ) ) )
+    .map( file => fs.readFileSync( path.join( __dirname, "2020/ignite/intro-to-github/notes", file ) ) )
     .join( "\n---\n" );
 
   // Save the Markdown
-  fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
+  fs.writeFileSync( "2020/ignite/intro-to-github/ignite-shareboard.md", shareboardFull );
 } catch (error) {
   core.setFailed(error.message);
 }
