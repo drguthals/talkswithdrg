@@ -14,4 +14,4 @@ jobs:
         commit_message: Adding someone to the shareboard
         branch: main
         file_pattern: 2020/ignite/notes/*.md
-        repository: sguthals/talkswithdrg
+        repository: .
