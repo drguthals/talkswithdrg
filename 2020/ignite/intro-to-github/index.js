@@ -18,11 +18,8 @@ try {
   console.log("Writing to the markdown file")
   fs.writeFileSync( core.getInput('file'), shareboardFull );
 
-  //console.log("NOT WORKING NOW: Setting the contents to the output");
-  //core.setOutput("contents", "SHAREBOARD.md");
-
-  //console.log("Setting a variable to the contents");
-  //core.exportVariable('shareboardContents', shareboardFull);
+  console.log("Writing to the markdown file")
+  fs.writeFileSync( core.getInput('tracking'), "Adding another person" );
 
 } catch (error) {
   core.setFailed(error.message);
