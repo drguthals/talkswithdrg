@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@v1.8
+      uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
       with:
         who-to-greet: 'Mona the Octocat'
     # Use the output from the `hello` step
