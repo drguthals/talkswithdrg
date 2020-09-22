@@ -13,6 +13,8 @@ try {
   console.log( "Shareboard contents:\n");
   console.log(shareboardFull);
 
+  console.log("Writing to ignite-shareboard.md");
+  fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
 } catch (error) {
   core.setFailed(error.message);
 }

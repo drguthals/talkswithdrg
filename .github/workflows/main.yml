@@ -1,17 +1,26 @@
-on: [push]
+name: publish
 
+on:
+  push:
+    branches:
+    - main
+    
 jobs:
-  update_shareboard_job:
+  build:
     runs-on: ubuntu-latest
-    name: A job to add learners to the shareboard
     steps:
+    - name: checkout
+      uses: actions/checkout@main
     - name: Getting all of the md file contents
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
-    - name: Write File
-      uses: DamianReeves/write-file-action@v1.0
-      with: 
-        path: ${{ env.home}}/ignite-shareboard.md
-        contents: |
-          echo "Hello World!"
-        write-mode: overwrite
+    - name: push
+      uses: actions-x/commit@main
+      with:
+        email: sarah@guthals.com
+        name: Sarah Guthals
+        branch: main
+        files: /2020/ignite/intro-to-github/ignite-shareboard.md
+        repository: https://github.com/sguthals/talkswithdrg
+        token: ${{ secrets.MY_SECRET_TOKEN }}
+        force: true
