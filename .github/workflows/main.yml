@@ -10,3 +10,8 @@ jobs:
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.5.1
+      with: 
+        commit_message: Adding someone to the shareboard
+        branch: main
+        file_pattern: 2020/ignite/notes/*.md
+        repository: sguthals/talkswithdrg
