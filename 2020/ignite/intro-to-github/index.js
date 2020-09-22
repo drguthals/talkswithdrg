@@ -18,8 +18,8 @@ try {
   //console.log("Writing to the markdown file")
   //fs.writeFileSync( "SHAREBOARD.md", shareboardFull );
 
-  console.log("NOT WORKING NOW: Setting the contents to the output");
-  core.setOutput("contents", "SHAREBOARD.md");
+  //console.log("NOT WORKING NOW: Setting the contents to the output");
+  //core.setOutput("contents", "SHAREBOARD.md");
 
   console.log("Setting a variable to the contents");
   core.exportVariable('shareboardContents', shareboardFull);
