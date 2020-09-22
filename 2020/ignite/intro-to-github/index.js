@@ -20,6 +20,9 @@ try {
     .map( file => fs.readFileSync( path.join( __dirname, "notes", file ) ) )
     .join( "\n---\n" );
 
+  console.log( "Shareboard contents: /n");
+  console.log(shareboardFull);
+
   // Save the Markdown
   fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
 } catch (error) {
