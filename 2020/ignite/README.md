@@ -5,7 +5,7 @@
 ### Conference Info
 - Dates: September 22-24, 2020
 - Location: Digital
-- Registration: You can [sign up for updates on the website](https://www.microsoft.com/en-us/ignite)
+- Registration: [Register for Free](https://www.microsoft.com/en-us/ignite)
 
 ### Talks
 
