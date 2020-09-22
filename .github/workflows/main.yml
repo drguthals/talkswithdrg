@@ -1,13 +1,10 @@
-on: 
-  push:
-    paths:
-      - '2020/ignite/intro-to-github/notes/*.md'
+on: [push]
 
 jobs:
   update_shareboard_job:
     runs-on: ubuntu-latest
     name: A job to add learners to the shareboard
     steps:
-    - name: Grabbing the changes
-      id: copy
+    - name: Getting all of the md file contents
+      id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
