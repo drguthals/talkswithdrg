@@ -22,7 +22,7 @@ async function run() {
     fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
   
     console.log("Ignite shareboard now has:\n");
-    console.log(fs.readdirSync( "ignite-shareboard.md" ));
+    console.log(fs.readdirSync( path.join( __dirname, "ignite-shareboard.md") ));
   
   } catch (error) {
     core.setFailed(error.message);
