@@ -23,6 +23,26 @@ try {
   console.log( "Shareboard contents: /n");
   console.log(shareboardFull);
 
+  console.log("Attempting to update the contents with the notes folder")
+  const { data } = await octokit.repos.createOrUpdateFileContents({
+    // replace the owner and email with your own details
+    owner: "sguthals",
+    repo: "talksWithDrG",
+    path: path.join( __dirname, "ignite-shareboard.md" ),
+    message: "feat: Added ignite-shareboard.md programatically",
+    content: shareboardFull,
+    committer: {
+      name: `Octokit Bot`,
+      email: "sarah@guthals.com",
+    },
+    author: {
+      name: "Octokit Bot",
+      email: "sarah@guthals.com",
+    },
+  })
+
+  console.log(data)
+
   // Save the Markdown
   fs.writeFileSync( "ignite-shareboard.md", shareboardFull );
 } catch (error) {
