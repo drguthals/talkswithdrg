@@ -1,15 +1,12 @@
 on: [push]
 
 jobs:
-  hello_world_job:
+  update_shareboard_job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: A job to add learners to the shareboard
     steps:
-    - name: Hello world action step
-      id: hello
+    - name: Grabbing the changes
+      id: copy
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
-      with:
-        who-to-greet: 'Mona the Octocat'
-    # Use the output from the `hello` step
-    - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.time }}"
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.5.1
