@@ -14,7 +14,7 @@ jobs:
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
     - name: checkout
       uses: actions/checkout@v2
-      run: |
+    - run: |
           ${{ steps.collect.shareboardContents }} > 2020/ignite/intro-to-github/ignite-shareboard.md
           git config user.name Sarah Guthals
           git config user.email sarah@guthals.com
