@@ -3,9 +3,9 @@
 GitHub has long served as one of the most popular collaboration tools for developers. Even so, developing software in collaboration with others can get complicated and confusing. In this session, you will be introduced to the basics of GitHub and the collaboration workflow and learn the importance of version control even for personal projects. Join us to explore the GitHub toolset and begin leveraging it for your own development and collaboration needs.
 
 There are three deliveries for this session:
-- [Sarah Guthals (me!) delivering this session in English on Wednesday, Septemver 23 at 1:45 - 2:15pm PDT](https://myignite.microsoft.com/sessions/93f49a5f-71f9-4036-afcf-6cdcbb8abf05)
-- [Nori Suzuki delivering this session in Japanese with English subtitles on Wednesday, September 23 at 9:45 - 10:15pm PDT](https://myignite.microsoft.com/sessions/f6b328f7-0b00-44ff-a88b-c06409597783)
-- [Manbir Marwah and Arkodyuti Saha delivering this session in English on Thursday, September 24 at 5:45am - 6:15am PDT](https://myignite.microsoft.com/sessions/970a02b6-6d90-4583-81dd-c23a2a556219)  
+- [Sarah Guthals (me!) is delivering this session in English on Wednesday, Septemver 23 at 1:45 - 2:15pm PDT](https://myignite.microsoft.com/sessions/93f49a5f-71f9-4036-afcf-6cdcbb8abf05)
+- [Nori Suzuki is delivering this session in Japanese with English subtitles on Wednesday, September 23 at 9:45 - 10:15pm PDT](https://myignite.microsoft.com/sessions/f6b328f7-0b00-44ff-a88b-c06409597783)
+- [Manbir Marwah and Arkodyuti Saha are delivering this session in English on Thursday, September 24 at 5:45am - 6:15am PDT](https://myignite.microsoft.com/sessions/970a02b6-6d90-4583-81dd-c23a2a556219)  
 
 ## Say You Were There!
 
