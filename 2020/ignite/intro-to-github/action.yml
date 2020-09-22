@@ -1,5 +1,10 @@
 name: 'Welcome to the Shareboard'
 description: 'Add learners to the shareboard'
+inputs:
+  commit_message: Adding someone to the shareboard
+  branch: main
+  file_pattern: 2020/ignite/notes/*.md
+  repository: ../../../.
 runs:
   using: 'node12'
   main: 'index.js'
