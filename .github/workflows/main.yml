@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: checkout
-      uses: actions/checkout@main
+      uses: actions/checkout@v2
     - name: Getting all of the md file contents
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
     - name: push
-      uses: actions-x/commit@main
+      uses: actions-x/commit@v2
       with:
         email: sarah@guthals.com
         name: Sarah Guthals
