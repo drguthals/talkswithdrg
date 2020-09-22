@@ -1,9 +1,5 @@
-const core = require('@actions/core');
-const github = require('@actions/github');
 const fs = require( "fs" );
 const path = require( "path" );
-const { Octokit } = require("@octokit/rest");
-const octokit = new Octokit();
 
 try {
   console.log( "Scanning Social Shareboard entries..." );
@@ -20,4 +16,3 @@ try {
 } catch (error) {
   core.setFailed(error.message);
 }
-
