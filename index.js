@@ -2,10 +2,6 @@ const core = require('@actions/core');
 const github = require('@actions/github');
 const fs = require( "fs" );
 const path = require( "path" );
-const md = require( "markdown-it" )({
-    linkify: true,
-    typographer: true
-}).enable([ 'link' ]);
 
 try {
   // `who-to-greet` input defined in action metadata file
