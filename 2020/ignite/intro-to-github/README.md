@@ -28,3 +28,4 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 - [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [GItHub For Dummies book by Sarah Guthals and Phil Haack](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
