@@ -19,3 +19,4 @@ There is an [interview for this content on Thursday, September 24 at 6:0 - 6:45a
 - [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/learn/paths/classify-space-rocks-artificial-intelligence-nasa/?WT.mc_id=ignite2020_techseries)
 - [Predict rocket launch delays with machine learning](https://docs.microsoft.com/learn/paths/machine-learning-predict-launch-delay-nasa/?WT.mc_id=ignite2020_techseries)
 - [Everything space related on Microsoft Learn](https://docs.microsoft.com/learn/topics/nasa?WT.mc_id=ignite2020_techseries)
+- [A Developer's Introduction to Data Science Video Series](https://www.youtube.com/watch?v=cUHXjTdMdYc&list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
