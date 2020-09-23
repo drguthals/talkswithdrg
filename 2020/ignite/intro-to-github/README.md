@@ -27,3 +27,4 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 - [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?WT.mc_id=ignite2020_techseries)
 - [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
