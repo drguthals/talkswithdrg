@@ -11,3 +11,5 @@ Sarah Guthals is a Principal Program Manager in Azure Education at Microsoft and
 education to novices everywhere. With a Ph.D. in Computer Science from University of California, San Diego, her passion is to design content, software, and 
 companies that focus on engaging learners. Sarah builds curriculum, teaches teachers, writes books for novices around coding, and is one of Forbes 30 Under 30 
 in Science for her work in Computer Science Education.
+
+Sarah Guthals is a Principal Program Manager in Azure Education at Microsoft. With a Ph.D. in Computer Science from UC San Diego, her passion is to design content, software, and companies that focus on engaging learners. More recently she’s been focused on Python and data science.
