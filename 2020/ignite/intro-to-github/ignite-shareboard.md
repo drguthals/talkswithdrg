@@ -7,6 +7,14 @@ IGNITE 2020 Virtual Edition. <3 Learning GitHub!
 
 From iwona1216
 ---
+Hi!  Adding a file for a pull request.
+
+---
+This is a file to introduce myself as an attendee.
+
+---
+Greetings from Switzerland! :smile:
+---
 Hello, Ignite! :hearts:
 
 I'm happy to be here. - @meaghanlewis
