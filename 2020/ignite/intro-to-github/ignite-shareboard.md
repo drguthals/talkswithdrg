@@ -42,6 +42,10 @@ Hello, Ignite! :hearts:
 I'm happy to be here. - @meaghanlewis
 
 ---
+# Neil
+
+Thank you!
+---
 # Nori Suzuki
 
 > Hi I'm Japanese session speaker. cannot wait Ignite 2020!!
@@ -64,7 +68,3 @@ You can find:
 > LET'S LEARN!!!
 
 I <3 Dr. G!
-
-# Neil
-
-Thank you!
