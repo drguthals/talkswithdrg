@@ -13,6 +13,15 @@ Hi!  Adding a file for a pull request.
 This is a file to introduce myself as an attendee.
 
 ---
+# Name
+
+> Quote message here!
+
+Any text here in Markdown format
+
+Hello!  This is pretty cool!
+
+---
 Greetings from Switzerland! :smile:
 ---
 Hello, Ignite! :hearts:
