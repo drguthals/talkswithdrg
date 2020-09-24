@@ -1,6 +1,11 @@
 Trying it out.
 
 ---
+Thanks, Dr. G!
+
+Fav session by far.
+
+---
 + # jlequar AKA Tuner
 
 IGNITE 2020 Virtual Edition. <3 Learning GitHub!
