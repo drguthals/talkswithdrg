@@ -18,8 +18,8 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 ## Talk Resources
 
 - [Ignite 2020 Learning Zone Repository](https://github.com/microsoft/ignitelearnzone/blob/main/session-resources/github.md) with all of the resources for every talk in the Learning Zone at Ignite 2020!
-- Slides: Coming Soon!
-- Video: Coming Soon!
+- Slides: Coming Soon
+- Video: [Watch Now](https://myignite.microsoft.com/sessions/93f49a5f-71f9-4036-afcf-6cdcbb8abf05)
 
 ## Continue Learning
 
