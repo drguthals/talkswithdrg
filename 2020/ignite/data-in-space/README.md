@@ -11,7 +11,7 @@ There is an [interview for this content on Thursday, September 24 at 6:0 - 6:45a
 
 - [Ignite 2020 Learning Zone Repository](https://github.com/microsoft/ignitelearnzone/blob/main/session-resources/github.md) with all of the resources for every talk in the Learning Zone at Ignite 2020!
 - Slides: Coming Soon!
-- Video: Coming Soon!
+- Video: [Watch Now](https://myignite.microsoft.com/sessions/d40e4b0f-c832-422f-949a-f82309253704)
 
 ## Continue Learning
 
