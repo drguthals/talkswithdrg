@@ -41,6 +41,11 @@ From iwona1216
 Hi!  Adding a file for a pull request.
 
 ---
+Trying out Github for the first time!
+
+Thanks Dr. G for a great session yesterday!
+
+---
 This is a file to introduce myself as an attendee.
 
 ---
