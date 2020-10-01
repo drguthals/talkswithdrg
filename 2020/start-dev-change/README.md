@@ -13,4 +13,4 @@ Resources for my talks can be found by clicking on the title the following table
 
 | Title | Description | Date | Time |
 |-------|-------------|------|------|
-| [Intro to GitHub](https://github.com/sguthals/talkswithdrg/tree/main/2020/start-dev-change/intro-to-github) | TBD | TBD | TBD |
+| [Intro to GitHub](https://github.com/sguthals/talkswithdrg/tree/main/2020/start-dev-change/intro-to-github) | TBD | October 14th, 2020 | 11:30 - 11:55am PT |
