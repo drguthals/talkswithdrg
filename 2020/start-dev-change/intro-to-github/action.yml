@@ -5,10 +5,6 @@ inputs:
     description: the shareboard file checked out
     required: true
     default: 'output.txt'
-  tracking:
-    descirption: just tracks commits
-    required: true
-    default: 'tracking.txt'
 runs:
   using: 'node12'
   main: 'index.js'
