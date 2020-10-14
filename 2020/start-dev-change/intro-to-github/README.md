@@ -14,7 +14,7 @@ Did you attend the talk? Add your name to our Start. Dev. Change. 2020 Shareboar
 
 ## Talk Resources
 
-- Slides: Coming Soon
+- Slides: [PDF Here](https://github.com/sguthals/talkswithdrg/blob/main/2020/start-dev-change/intro-to-github/IntroToGitHub_start-dev-change.pdf)
 - Video: Coming Soon
 - [GitHub Desktop](https://desktop.github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
