@@ -1,6 +1,6 @@
 # Intro to GitHub
 
-< Description Coming >
+Whether you're working on your own project, contributing to an open source project, or working with a team to build something new, GitHub provides you with the support and structure to plan, develop, and share your code with confidence. In this session, you will learn the basic flow of GitHub, how to get started on new projects, the importance of communication, and best practices for contributing to open source. No coding or GitHub experience required, it is recommended you sign up for GitHub prior to joining so you can click along!
 
 ## Say You Were There!
 
@@ -12,5 +12,5 @@ Did you attend the talk? Add your name to our Start. Dev. Change. 2020 Shareboar
 
 ## Talk Resources
 
-- Slides:
-- Video:
+- Slides: Coming Soon
+- Video: Coming Soon
