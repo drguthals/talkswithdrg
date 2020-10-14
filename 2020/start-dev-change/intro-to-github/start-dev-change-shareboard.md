@@ -13,6 +13,9 @@ Hi Dr. G!
 
 
 ---
+I joined the talk today and learned something new! Thank you so much! <3
+
+---
 Simon Allison 
 
 Windows Insider MVP ! 
