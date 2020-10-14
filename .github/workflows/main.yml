@@ -11,12 +11,17 @@ jobs:
     steps:    
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Getting all of the md file contents
+    - name: Getting all of the md file contents for Ignite 2020
       id: collect
       uses: sguthals/talkswithdrg/2020/ignite/intro-to-github@main
       with:
         file: 2020/ignite/intro-to-github/ignite-shareboard.md
         tracking: 2020/ignite/intro-to-github/tracking.md
+    - name: Getting all of the md file contents for Start Dev Change 2020
+      id: collect2
+      uses: sguthals/talkswithdrg/2020/start-dev-change/intro-to-github@main
+      with:
+        file: 2020/start-dev-change/intro-to-github/ignite-shareboard.md
     - name: Copy contents and push
       run: |
           git config user.name Sarah Guthals
