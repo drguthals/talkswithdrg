@@ -10,6 +10,12 @@ I'm so excited to be speaking at Start. Dev. Change.!!
 :smile:
 
 ---
+# Mandy Huey
+
+Hi Dr. G! Former student here... thanks for the GitHub refresher! :)
+
+
+---
 Hi Dr. G!
 
 @meaghanlewis checking in.
