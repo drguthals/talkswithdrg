@@ -22,6 +22,11 @@ jobs:
       uses: sguthals/talkswithdrg/2020/start-dev-change/intro-to-github@main
       with:
         file: 2020/start-dev-change/intro-to-github/start-dev-change-shareboard.md
+    - name: Getting all of the md file contents for MSA Events
+      id: collect3
+      uses: sguthals/talkswithdrg/2020/msa/intro-to-github@main
+      with:
+        file: 2020/msa/intro-to-github/msa-shareboard.md
     - name: Copy contents and push
       run: |
           git config user.name Sarah Guthals
