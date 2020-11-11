@@ -4,7 +4,7 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 ## Say You Were There!
 
-Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that:
+Did you attend the talk? Add your name to our MSA 2020 Shareboard! To do that:
 1. Fork [this repo](https://github.com/sguthals/talkswithdrg)
 2. Create a md file in the the [notes folder](https://github.com/sguthals/talkswithdrg/tree/main/2020/msa/intro-to-github/notes) following the [sample.md](https://github.com/sguthals/talkswithdrg/blob/main/2020/msa/intro-to-github/notes/sample.md) format
 3. Create a pull request
@@ -18,3 +18,5 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [GitHub For Dummies book by Sarah Guthals and Phil Haack](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [GitHub Pull Request Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
