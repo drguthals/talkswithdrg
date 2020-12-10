@@ -4,3 +4,9 @@ The Lunar rover has been instrumental in helping us advance our understanding of
 
 ## Continue Learning
 
+- [Over the Moon Module](https://aka.ms/LearnWithDrG/OverTheMoon)
+- [Export model to use with mobile devices])https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model)
+- [How machine learning training works](https://docs.microsoft.com/en-us/learn/modules/introduction-rocket-launch-nasa/7-train-test-model)
+- [Azure Portal](https://portal.azure.com)
+- [Custom Vision Portal](https://www.customvision.ai/)
+- [NASA Modules on Learn](https://docs.microsoft.com/learn/topics/nasa)
