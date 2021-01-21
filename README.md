@@ -6,6 +6,15 @@ Here you will find resources for talks that I have given. For talks that introdu
 
 Find the event+talk below for more information!
 
+### 2021
+
+| Event | Dates | Registration |
+|-------|-------| ------------ |
+| [Microsoft's EDU Day](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Register Here](https://microsoftedu.eventbuilder.com/event/36512) |
+
+
+### 2020
+
 | Event | Dates | Registration |
 |-------|-------| ------------ |
 | [Microsoft Student Ambassador Events](https://github.com/sguthals/talkswithdrg/blob/main/2020/msa/README.md) | September 2020 - December 2020 | Private Event |
