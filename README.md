@@ -10,7 +10,7 @@ Find the event+talk below for more information!
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
-| [Microsoft's EDU Day](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Register Here](https://microsoftedu.eventbuilder.com/event/36512) |
+| [Microsoft's EDU Day: Get started with Microsoft Learn](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Register Here](https://microsoftedu.eventbuilder.com/event/36512) |
 
 
 ### 2020
