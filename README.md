@@ -10,7 +10,8 @@ Find the event+talk below for more information!
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
-| [Microsoft's EDU Day: Get started with Microsoft Learn](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Register Here](https://microsoftedu.eventbuilder.com/event/36512) |
+| [Microsoft Spring Ignite 2021](https://github.com/sguthals/talkswithdrg/blob/main/2021/SpringIgnite/README.md) | March 2–4, 2021 | [Register Now](https://myignite.microsoft.com/home) |
+| [Microsoft's EDU Day: Get started with Microsoft Learn](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Watch Now](https://microsoftedu.eventbuilder.com/event/36512) |
 
 
 ### 2020
