@@ -26,5 +26,5 @@ Find the event+talk below for more information!
 | [Microsoft Student Ambassador Events](https://github.com/sguthals/talkswithdrg/blob/main/2020/msa/README.md) | September 2020 - December 2020 | Private Event |
 | [raise.dev Hacktoberfest Helpdesk](https://github.com/sguthals/talkswithdrg/blob/main/2020/raise-dev/README.md) | October 20, 2020 | [twitch.tv/raisedevs](https://www.twitch.tv/raisedevs) |
 | [Microsoft Start. Dev. Change. 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/start-dev-change/README.md) | October 14-15, 2020 | [Watch Now](https://www.youtube.com/playlist?list=PLlrxD0HtieHhn8drYx69o76YsJmA7T1lD) |
-| [Micorosft Ignite 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/ignite/README.md) | September 22-24, 2020 | Closed |
+| [Micorosft Ignite 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/ignite/README.md) | September 22-24, 2020 | [Watch Now](https://www.youtube.com/c/MicrosoftIgnite/playlists?view=50&sort=dd&shelf_id=1) |
 | [Microsoft Build 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/build/README.md) | May 19 - 21, 2020 | [Watch Now](https://www.youtube.com/watch?v=S_wNRx7f7rU&list=PLFPUGjQjckXEiPiW868RGBYYHXhBCGLng) |
