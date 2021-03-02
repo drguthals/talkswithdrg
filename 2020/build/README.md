@@ -8,6 +8,8 @@
 
 ### Talks
 
+Checkout out each of my talks from Build 2020 below, or checkout my [playlist](https://youtube.com/playlist?list=PLjoGSbuzyErisWQ2zjFmyE-T1V3T5bYUB) featuring all four!
+
 | Title | Description | Video |
 |-------|-------------|-------|
 | Welcome to the Student Zone at Build | Community Connections experience - The first-ever all-digital Student Zone at Build is just ramping up. Attend this session to get an overview on how to engage with the speakers over the next two days, and even more, how to participate in coding along with them! | [Watch Now](https://youtu.be/gYsC9arAWTM) |
