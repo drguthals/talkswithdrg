@@ -10,7 +10,10 @@ Find the event+talk below for more information!
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
-| [Microsoft Spring Ignite 2021](https://github.com/sguthals/talkswithdrg/blob/main/2021/SpringIgnite/README.md) | March 2–4, 2021 | [Register Now](https://myignite.microsoft.com/home) |
+| [SIGCSE](https://github.com/sguthals/talkswithdrg/blob/main/2021/sigcse/README.md) | March 13-20, 2021 | [Register Now](http://www.sigcse2021.sigcse.org/) |
+| [Microsoft Reactor International Women's Day Event Series](https://github.com/sguthals/talkswithdrg/blob/main/2021/reactor-iwd/README.md) | March 7-11, 2021 | [Register Now](https://developer.microsoft.com/reactor/eventseries/iwd) |
+| [The Live Coders Conference: International Women's Day Challenge](https://github.com/sguthals/talkswithdrg/blob/main/2021/live-coders-iwd/README.md) | March 8, 2021 | [Watch Here](https://livecoders.dev/conference/) |
+| [Microsoft Spring Ignite 2021](https://github.com/sguthals/talkswithdrg/blob/main/2021/spring-ignite/README.md) | March 2–4, 2021 | [Register Now](https://myignite.microsoft.com/home) |
 | [Microsoft's EDU Day: Get started with Microsoft Learn](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Watch Now](https://microsoftedu.eventbuilder.com/event/36512) |
 
 
