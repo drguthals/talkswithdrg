@@ -4,14 +4,17 @@
 live streams to support first-time contributors to open source projects!
 
 ### Event Info
+
 - Dates: October 20, 2020
 - Location: [twitch.tv/raisedev](https://www.twitch.tv/raisedevs)
+- [Watch Now](https://www.youtube.com/watch?v=APQBS6ghWYY)
 
 ### My Stream
 
 My Stream is at 8pm UTC, 10pm CEST, 4pm EDT, 1pm PST on October 20th. We will chat about my unique journey and give resources for contributing things other than code to open source projects!
 
-Resources we discuss during my stream will be found here:
+### Resources from Stream
+
 - Microsoft Open Source: 
   - Docs: https://docs.microsoft.com/
   - Microsoft Docs for Azure on GitHub: https://github.com/MicrosoftDocs/azure-docs
