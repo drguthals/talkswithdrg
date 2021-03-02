@@ -27,6 +27,11 @@ jobs:
       uses: sguthals/talkswithdrg/2020/msa/intro-to-github@main
       with:
         file: 2020/msa/intro-to-github/msa-shareboard.md
+    - name: Getting all of the md file contents for Spring Ignite 2021
+      id: collect4
+      uses: sguthals/talkswithdrg/2021/spring-ignite/intro-to-github@main
+      with:
+        file: 2021/spring-ignite/intro-to-github/ignite-shareboard.md
     - name: Copy contents and push
       run: |
           git config user.name Sarah Guthals
