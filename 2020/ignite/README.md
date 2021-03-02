@@ -9,7 +9,7 @@
 
 ### Talks
 
-Resources for my talks can be found by clicking on the title the following table:
+Resources for my talks can be found by clicking on the title the following table. You can also check out a [playlist of my talks on YouTube](https://www.youtube.com/playlist?list=PLjoGSbuzyErgDID3VNzVpGMZWG0jhBxlH).
 
 | Title | Description | Date | Time | Resources Link | Video |
 |-------|-------------|------|------|----------------|-------|
