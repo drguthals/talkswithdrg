@@ -10,7 +10,7 @@ For talks that introduce GitHub, I usually have a way for you to add your name t
 
 Keeping track of bios and headshots is hard...so I am storing them all here!
 
-You can find [bios on this page](bios.md) and [headshots in this folder](media/).
+You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/sguthals/talkswithdrg/tree/main/docs/media).
 
 ### 2021
 
