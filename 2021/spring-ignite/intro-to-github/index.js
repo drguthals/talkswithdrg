@@ -18,9 +18,6 @@ try {
   console.log("Writing to the markdown file")
   fs.writeFileSync( core.getInput('file'), shareboardFull );
 
-  console.log("Writing to the markdown file")
-  fs.writeFileSync( core.getInput('tracking'), "Adding another person" + Math.random() );
-
 } catch (error) {
   core.setFailed(error.message);
 }
