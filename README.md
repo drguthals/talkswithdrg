@@ -1,8 +1,10 @@
 # Talks with Dr. G
 
-Thanks for attending one of my talks! 
+Want to find one of my upcoming talks? Or have you attended one recently (thanks for coming!! :) ) 
 
-Here you will find resources for talks that I have given. For talks that introduce GitHub, I usually have a way for you to add your name to show you attended (and so that you can try out your first PR (pull request) in a safe place :) )
+Here you will find links and information for upcoming talks and resources for talks that I have already given. 
+
+For talks that introduce GitHub, I usually have a way for you to add your name to show you attended (and so that you can try out your first PR (pull request) in a safe place :) )
 
 Find the event+talk below for more information!
 
