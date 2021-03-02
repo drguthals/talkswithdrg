@@ -5,7 +5,6 @@
 ### Conference Info
 - Dates: October 14-15, 2020
 - Location: Digital
-- Registration: [RSVP on the Website Today!](https://startdevchange.com/)
 
 ### Talks
 
