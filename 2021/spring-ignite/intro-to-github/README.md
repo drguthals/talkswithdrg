@@ -16,8 +16,9 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 
 ## Continue Learning
 
-- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/$wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
-- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/$wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
+- [Learn with Dr G Series on Git and GitHub](https://aka.ms/LearnWithDrG/WYDLIS_Videos)
+- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/?wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
+- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
 - [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
