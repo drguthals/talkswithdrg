@@ -38,6 +38,7 @@ Did you attend the talk? Add your name to our Ignite 2020 Shareboard! To do that
 ### GitHub Tools and Integrations
 
 - [Working with GitHub in Visual Studio Code](https://aka.ms/SprIgnite21/GitHub6)
+- [GitHub Desktop](https://aka.ms/SprIgnite21/GitHub8)
 
 ### Git
 
