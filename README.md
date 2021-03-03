@@ -18,6 +18,7 @@ Find the event+talk below for more information!
 | [Microsoft Reactor International Women's Day Event Series](https://github.com/sguthals/talkswithdrg/blob/main/2021/reactor-iwd/README.md) | March 7-11, 2021 | [Register Now](https://developer.microsoft.com/reactor/eventseries/iwd) |
 | [The Live Coders Conference: International Women's Day Challenge](https://github.com/sguthals/talkswithdrg/blob/main/2021/live-coders-iwd/README.md) | March 8, 2021 | [Watch Here](https://livecoders.dev/conference/) |
 | [Microsoft Spring Ignite 2021](https://github.com/sguthals/talkswithdrg/blob/main/2021/spring-ignite/README.md) | March 2–4, 2021 | [Register Now](https://myignite.microsoft.com/home) |
+| [Away from the Keyboard: Dr. Sarah Guthals Educates Us](https://github.com/sguthals/talkswithdrg/blob/main/2021/aftk/README.md) | March 1, 2021 | [Listen Now](http://awayfromthekeyboard.com/2021/03/01/episode-78-dr-sarah-guthals-educates-us/) |
 | [Microsoft's EDU Day: Get started with Microsoft Learn](https://github.com/sguthals/talkswithdrg/blob/main/2021/EDUDay/README.md) | January 25, 2021 | [Watch Now](https://microsoftedu.eventbuilder.com/event/36512) |
 
 
@@ -30,3 +31,9 @@ Find the event+talk below for more information!
 | [Microsoft Start. Dev. Change. 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/start-dev-change/README.md) | October 14-15, 2020 | [Watch Now](https://www.youtube.com/playlist?list=PLlrxD0HtieHhn8drYx69o76YsJmA7T1lD) |
 | [Micorosft Ignite 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/ignite/README.md) | September 22-24, 2020 | [Watch Now](https://www.youtube.com/c/MicrosoftIgnite/playlists?view=50&sort=dd&shelf_id=1) |
 | [Microsoft Build 2020](https://github.com/sguthals/talkswithdrg/blob/main/2020/build/README.md) | May 19 - 21, 2020 | [Watch Now](https://www.youtube.com/watch?v=S_wNRx7f7rU&list=PLFPUGjQjckXEiPiW868RGBYYHXhBCGLng) |
+
+## 2019
+
+| Event | Dates | Registration |
+|-------|-------| ------------ |
+| [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](https://github.com/sguthals/talkswithdrg/blob/main/2019/itenergizer/README.md) | July 22, 2019 | [Listen on Apple Podcast](https://podcasts.apple.com/gb/podcast/set-fulfilling-career-life-goals-review-them-regularly/id1231387865?i=1000444995402), [Listen on Stitcher](https://www.stitcher.com/show/it-career-energizer/episode/set-fulfilling-career-and-life-goals-and-review-them-regularly-with-sarah-guthals-62708329), [Listen on ITEnergizer](https://www.itcareerenergizer.com/e193) |

@@ -22,6 +22,7 @@ You can find [bios on this page](bios.md) and [headshots in this folder](https:/
 | [Microsoft Reactor International Women's Day Event Series](2021-reactor-iwd.md) | March 7-11, 2021 | [Register Now](https://developer.microsoft.com/reactor/eventseries/iwd) |
 | [The Live Coders Conference: International Women's Day Challenge](2021-live-coders.md) | March 8, 2021 | [Watch Here](https://livecoders.dev/conference/) |
 | [Microsoft Spring Ignite 2021](2021-spring-ignite.md) | March 2–4, 2021 | [Register Now](https://myignite.microsoft.com/home) |
+| [Away from the Keyboard: Dr. Sarah Guthals Educates Us](2021-aftk.md) | March 1, 2021 | [Listen Now](http://awayfromthekeyboard.com/2021/03/01/episode-78-dr-sarah-guthals-educates-us/) |
 | [Microsoft's EDU Day: Get started with Microsoft Learn](2021-edu-day.md) | January 25, 2021 | [Watch Now](https://microsoftedu.eventbuilder.com/event/36512) |
 
 
@@ -34,3 +35,10 @@ You can find [bios on this page](bios.md) and [headshots in this folder](https:/
 | [Microsoft Start. Dev. Change. 2020](2020-start-dev-change.md) | October 14-15, 2020 | [Watch Now](https://www.youtube.com/playlist?list=PLlrxD0HtieHhn8drYx69o76YsJmA7T1lD) |
 | [Micorosft Ignite 2020](2020-ignite.md) | September 22-24, 2020 | [Watch Now](https://www.youtube.com/c/MicrosoftIgnite/playlists?view=50&sort=dd&shelf_id=1) |
 | [Microsoft Build 2020](2020-build.md) | May 19 - 21, 2020 | [Watch Now](https://www.youtube.com/watch?v=S_wNRx7f7rU&list=PLFPUGjQjckXEiPiW868RGBYYHXhBCGLng) |
+
+
+## 2019
+
+| Event | Dates | Registration |
+|-------|-------| ------------ |
+| [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](2019-itenergizer.md) | July 22, 2019 | [Listen on Apple Podcast](https://podcasts.apple.com/gb/podcast/set-fulfilling-career-life-goals-review-them-regularly/id1231387865?i=1000444995402), [Listen on Stitcher](https://www.stitcher.com/show/it-career-energizer/episode/set-fulfilling-career-and-life-goals-and-review-them-regularly-with-sarah-guthals-62708329), [Listen on ITEnergizer](https://www.itcareerenergizer.com/e193) |
