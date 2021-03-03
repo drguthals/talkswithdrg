@@ -15,9 +15,28 @@ If you attended and want to add your name and note, follow the instructions on t
 ## Continue Learning
 
 - [Learn with Dr G Series on Git and GitHub](https://aka.ms/LearnWithDrG/WYDLIS_Videos)
-- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/?wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
-- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?wt.mc_id=ignite2021spring_intrototech_webpage_wwl)
-- [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
-- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-- [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- [GitHub For Dummies book by Sarah Guthals and Phil Haack](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
+- [Collaborate with others with Markdown and GitHub Pages](https://aka.ms/SprIgnite21/GitHub)
+- [Build community-driven software projects on GitHub](https://aka.ms/SprIgnite21/GitHub2)
+- [GitHub For Dummies book by Sarah Guthals and Phil Haack](https://aka.ms/LWDG/GitHubForDummies)
+
+### GitHub Docs
+
+- [Understanding the GitHub Flow](https://aka.ms/LWDG/GitHubFlow)
+- [GitHub Docs](https://aka.ms/LWDG/GitHubDocs)
+- [GitHub Guides](https://aka.ms/LWDG/GitHubGuides)
+- [GitHub CLI Docs](https://aka.ms/LWDG/GitHubCLI)
+- [GitHub Pages Docs](https://aka.ms/LWDG/GitHubPages)
+
+### GitHub How-Tos
+
+- [How to Create a GitHub Template Repository](https://aka.ms/SprIgnite21/GitHub5)
+- [How to choose the right open source license](https://aka.ms/SprIgnite/GitHub4)
+- [How to create a profile README](https://aka.ms/SprIgnite21/GitHub3)
+
+### GitHub Tools and Integrations
+
+- [Working with GitHub in Visual Studio Code](https://aka.ms/SprIgnite21/GitHub6)
+
+### Git
+
+- [Getting Started with Git](https://aka.ms/SprIgnite21/GitHub7)
