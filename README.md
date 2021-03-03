@@ -12,6 +12,8 @@ Find the event+talk below for more information!
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
+| [Below The Surface: Advancing Women in Technology](https://github.com/sguthals/talkswithdrg/blob/main/2021/barracuda/README.md) | March 11, 2021 | Watch Here](https://www.linkedin.com/company/barracuda-networks/) |
+| [AI and the Future of Jobs](https://github.com/sguthals/talkswithdrg/blob/main/2021/elmhurst/README.md) | March 16, 2021 | Private Event for Elmhurst University |
 | [SIGCSE](https://github.com/sguthals/talkswithdrg/blob/main/2021/sigcse/README.md) | March 13-20, 2021 | [Register Now](http://www.sigcse2021.sigcse.org/) |
 | [Microsoft Reactor International Women's Day Event Series](https://github.com/sguthals/talkswithdrg/blob/main/2021/reactor-iwd/README.md) | March 7-11, 2021 | [Register Now](https://developer.microsoft.com/reactor/eventseries/iwd) |
 | [The Live Coders Conference: International Women's Day Challenge](https://github.com/sguthals/talkswithdrg/blob/main/2021/live-coders-iwd/README.md) | March 8, 2021 | [Watch Here](https://livecoders.dev/conference/) |

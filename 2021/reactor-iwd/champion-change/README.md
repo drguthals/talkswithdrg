@@ -2,6 +2,12 @@
 
 It is important that we are all champions for change and inclusion in our workplace and lives. In this session we will hear from a few folks about how they are creating change for a better workplace.
 
+### Speakers
+
+- __Dr Sarah Guthals__, Principal Program Manager, Microsoft
+- __Justin Garrett__, Principal Program Manager, Microsoft
+- __Gwyneth Pena-Siguenza__, Training Architect at A Cloud Guru, Azure MVP, and YouTuber 
+
 ## Who is it aimed for?
 
 Anyone looking for ways you can help create a better work place for everyone

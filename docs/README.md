@@ -16,6 +16,8 @@ You can find [bios on this page](bios.md) and [headshots in this folder](https:/
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
+| [Below The Surface: Advancing Women in Technology](2021-barracuda-iwd.md) | March 11, 2021 | Watch Here](https://www.linkedin.com/company/barracuda-networks/) |
+| [AI and the Future of Jobs](2021-elmhurst.md) | March 16, 2021 | Private Event for Elmhurst University |
 | [SIGCSE](2021-sigcse.md) | March 13-20, 2021 | [Register Now](http://www.sigcse2021.sigcse.org/) |
 | [Microsoft Reactor International Women's Day Event Series](2021-reactor-iwd.md) | March 7-11, 2021 | [Register Now](https://developer.microsoft.com/reactor/eventseries/iwd) |
 | [The Live Coders Conference: International Women's Day Challenge](2021-live-coders.md) | March 8, 2021 | [Watch Here](https://livecoders.dev/conference/) |
