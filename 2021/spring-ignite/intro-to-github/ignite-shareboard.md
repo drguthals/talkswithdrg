@@ -1,3 +1,8 @@
+# Hi Sarah!!
+
+Great intro to GitHub!
+
+---
 Hello  
 Thanks for the great info!
 
