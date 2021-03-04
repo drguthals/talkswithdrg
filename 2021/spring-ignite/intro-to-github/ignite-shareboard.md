@@ -16,6 +16,11 @@ I really should do more with this platform...
 
 > It was an awesome session! Thanks Dr. G!
 ---
+#Liz M
+
+Thanks for the great talk!
+
+---
 # Hello there!
 
 @meaghanlewis checking in :smile:
