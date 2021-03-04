@@ -5,6 +5,11 @@ Thanks for the great info!
 Wow!  What a presentation!!
 
 ---
+# Thanks for the introduction to GitHub!
+
+I really should do more with this platform...
+
+---
 # Hello there!
 
 @meaghanlewis checking in :smile:
