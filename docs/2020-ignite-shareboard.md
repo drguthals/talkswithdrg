@@ -6,6 +6,8 @@ Thanks, Dr. G!
 Fav session by far.
 
 ---
+Just watched the 2020 video, thanks!
+---
 Great Presentation!
 
 ---
