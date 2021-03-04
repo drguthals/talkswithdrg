@@ -10,6 +10,12 @@ Wow!  What a presentation!!
 I really should do more with this platform...
 
 ---
+# @enusan
+
+> Hello from South Korea!
+
+> It was an awesome session! Thanks Dr. G!
+---
 # Hello there!
 
 @meaghanlewis checking in :smile:
