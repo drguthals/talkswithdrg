@@ -6,12 +6,12 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 Check out the [Ignite Shareboard](2020-ignite-shareboard.md) to see who all attended the talk! 
 
-If you attended and want to add your name and note, follow the instructions on the [intro-to-github README]([intro-to-github/](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github) for Ignite 2020.
+If you attended and want to add your name and note, follow the instructions on the [intro-to-github README](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github) for Ignite 2020.
 
 ## Talk Resources
 
 - [Ignite 2020 Learning Zone Repository](https://github.com/microsoft/ignitelearnzone/blob/main/session-resources/github.md) with all of the resources for every talk in the Learning Zone at Ignite 2020!
-[Watch a similar talk](https://youtu.be/IE_w8TdmwUE) from the [Start.Dev.Change conference](2020-start-dev-change.md).
+[Watch the Recording](https://myignite.microsoft.com/archives/IG20-LRN163).
 
 ## Continue Learning
 
