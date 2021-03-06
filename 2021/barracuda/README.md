@@ -10,6 +10,6 @@ It is important that we are all champions for change and inclusion in our workpl
 
 ## Where to watch
 
-[Thursday, March 11, 2021 at 9:00 - 10:00am PDT](https://www.linkedin.com/company/barracuda-networks/)
+[Thursday, March 11, 2021 at 9:00 - 10:00am PDT](http://bit.ly/AdvWomenPanel)
 
 ## Additional Resources
