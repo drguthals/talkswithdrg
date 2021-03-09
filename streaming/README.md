@@ -13,7 +13,6 @@
 
 | Date | Title | Link |
 |------|-------|------|
-| 3/9/21 | Using Markdown to Optimize your GitHub Project | [YouTube](https://youtu.be/yPAvSZlFBhU) |
-| 3/16/21 | Introduction to Bash | Coming Soon |
-| 3/23/21 | Foundations of PowerShell | Coming Soon |
-| 3/30/21 | Using UNIX shell and regex to Wrangle Data | Coming Soon |
+| 4/6/21 | Exploring RESTful APIs | [YouTube](https://youtu.be/pnQi098ZZRo) |
+| 4/13/21 | Programming on Linux on Windows using WSL | [YouTube](https://youtu.be/HkCI5dG3Qvo) |
+
