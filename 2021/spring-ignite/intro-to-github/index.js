@@ -4,7 +4,7 @@ const fs = require( "fs" );
 const path = require( "path" );
 
 try {
-  console.log( "Scanning Social Shareboard entries..." );
+  console.log( "Scanning Social Shareboard entries in ", __dirname );
 
   let shareboardFull = fs.readdirSync( path.join( __dirname, "notes" ) )
     .filter( file => path.extname( file ).toLowerCase() === ".md" )
