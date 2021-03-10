@@ -8,6 +8,10 @@ Fav session by far.
 ---
 Just watched the 2020 video, thanks!
 ---
+Love this session!!
+Reminds me why I love coding!!!Thanks Dr G!!!
+
+---
 Great Presentation!
 
 ---
