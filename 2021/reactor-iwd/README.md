@@ -11,6 +11,6 @@
 
 Resources for my talks can be found by clicking on the title the following table:
 
-| Title | Description | Date | Time | Resources Link | Video |
-|-------|-------------|------|------|----------------|-------|
-| How to Champion Change for a Better Work Place | It is important that we are all champions for change and inclusion in our workplace and lives. In this session we will hear from a few folks about how they are creating change for a better workplace. | Wednesday, March 10, 2021 | 4:00 - 4:45pm PDT | [champion-change/](https://github.com/sguthals/talkswithdrg/tree/main/2021/reactor-iwd/champion-change) | [Register for the session!](https://developer.microsoft.com/reactor/eventregistration/register/13019) |
+| Title | Description | Date | Time |
+|-------|-------------|------|------|
+| [How to Champion Change for a Better Work Place](https://github.com/sguthals/talkswithdrg/tree/main/2021/reactor-iwd/champion-change) | It is important that we are all champions for change and inclusion in our workplace and lives. In this session we will hear from a few folks about how they are creating change for a better workplace. |
