@@ -15,4 +15,15 @@ Join us to learn about:
 
 ## Additional Resources
 
+- [Learn with Visual Studio Code](https://aka.ms/LearnOnVSCode)
+- [Learn Soft Skills with Microsoft](https://www.microsoft.com/inculture/social-good/inclusion/tech-resilience/)
 
+### Microsoft Learn Collections
+- [Intro to Programming on Microsoft Learn](https://aka.ms/IntroTo/Programming)
+- [Intro to Emerging Tech on Microsoft Learn](https://aka.ms/IntroTo/EmergingTech)
+- [Intro to Data Science on Microsoft Learn](https://aka.ms/IntroTo/Data)
+- [What You Didn't Learn In School on Microsoft Learn](https://aka.ms/LearnWithDrG/WYDLIS)
+
+### Learn With Dr G
+- [What You Didn't Learn In School with Dr G](https://aka.ms/LearnWithDrG/WYDLIS_Videos)
+- [Learn about Data Science through Space Exploration](https://aka.ms/LearnInSpace)
