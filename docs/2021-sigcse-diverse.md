@@ -15,8 +15,12 @@ Join us to learn about:
 
 ## Additional Resources
 
+### Student Resources
 - [Learn with Visual Studio Code](https://aka.ms/LearnOnVSCode)
 - [Learn Soft Skills with Microsoft](https://www.microsoft.com/inculture/social-good/inclusion/tech-resilience/)
+- [Imagine Cup](https://imaginecup.microsoft.com/Events)
+- [Imagine Cup Jr](https://imaginecup.microsoft.com/junior)
+- [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/)
 
 ### Microsoft Learn Collections
 - [Intro to Programming on Microsoft Learn](https://aka.ms/IntroTo/Programming)
