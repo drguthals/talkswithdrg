@@ -25,7 +25,7 @@ Participants generate questions for panelists
 ### Expert Panel 
 
 Hear from various experts on AI and Jobs:
-- Collins Marshall, Partnerships Development Manager @ JobScan
+- Maria Bane, IO Psych
 - Tom McDonald, U.S. Bureau of Labor Statistics
 - Anita Jenke, Executive Director @ Career Transitions Center of Chicago
 - Dr. James Kulich, Professor of Computer Science & Information Systems and Program Director of M.S. in Data Science @ Elmhurst College
