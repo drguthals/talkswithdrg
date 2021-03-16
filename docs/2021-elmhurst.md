@@ -32,7 +32,19 @@ Hear from various experts on AI and Jobs:
 
 ## Additional Resources
 
+These resources were shared by panelists and participants alike. Some of these I haven't had a chance to explore yet.
+
 - [HireVue](https://www.hirevue.com/)
+  - [Blog posts with tips for candidates](https://www.hirevue.com/blog/candidates)
 - [Microsoft's AI Show on YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1)
 - [Microsoft Learn Free Courses](https://docs.microsoft.com/learn)
   - [Specifically around AI Engineer roles](https://docs.microsoft.com/en-us/learn/browse/?roles=ai-engineer)
+- [Tech Humanist: How You Can Make Technology Better for Business and Better for Humans](https://www.goodreads.com/book/show/41452656-tech-humanist?from_search=true&from_srp=true&qid=4efehBA4OT&rank=2)
+- Additional places to find learning resources:
+  - [Skillshare](https://www.skillshare.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [YouTube](https://www.youtube.com/)
+- Help from Career Coaches
+  - [Work It Daily](https://www.workitdaily.com/)
+  - [Career Sherpa](https://careersherpa.net/)
+- [Microsoft's Mentor Program](https://www.youtube.com/playlist?list=PL6ihFEvicZRCOEbfvjkWPculxOhSsNwt2)
