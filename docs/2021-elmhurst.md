@@ -1,6 +1,6 @@
-# Elmhurst University Presents AI and the Future of Jobs
+# Chicago Career Professional Network Presents AI and the Future of Jobs
 
-The Elmhurst College Center for Professional Excellence is hosting a workshop around AI and the Future of Jobs. The goal of workshop is to discuss:
+Elmhurst College and the College of Lake County are co-hosting a workshop around AI and the Future of Jobs as part of the Chicago Career Professional Network workshop series. The goal of workshop is to discuss:
 1.	What is artificial intelligence (AI) and machine learning and its relationship to the labor market?
 2.	What will the near and long term impact of this technology be on jobs?
 3.	How should/could you advise your students/clients to effectively navigate the new jobs landscape effectively using knowledge about technology like ATS?
