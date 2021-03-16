@@ -30,3 +30,9 @@ Hear from various experts on AI and Jobs:
 - Anita Jenke, Executive Director @ Career Transitions Center of Chicago
 - Dr. James Kulich, Professor of Computer Science & Information Systems and Program Director of M.S. in Data Science @ Elmhurst College
 
+## Additional Resources
+
+- [HireVue](https://www.hirevue.com/)
+- [Microsoft's AI Show on YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1)
+- [Microsoft Learn Free Courses](https://docs.microsoft.com/learn)
+  - [Specifically around AI Engineer roles](https://docs.microsoft.com/en-us/learn/browse/?roles=ai-engineer)
