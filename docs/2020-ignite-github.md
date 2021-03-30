@@ -6,7 +6,7 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 Check out the [Ignite Shareboard](2020-ignite-shareboard.md) to see who all attended the talk! 
 
-If you attended and want to add your name and note, follow the instructions on the [intro-to-github README](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github) for Ignite 2020.
+If you attended and want to add your name and note, follow the instructions on the [intro-to-github README](https://github.com/drguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github) for Ignite 2020.
 
 ## Talk Resources
 

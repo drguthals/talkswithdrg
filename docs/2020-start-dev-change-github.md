@@ -6,7 +6,7 @@ Whether you're working on your own project, contributing to an open source proje
 
 Check out the [Start.Dev.Change Shareboard](2020-start-dev-change-shareboard.md) to see who all attended the talk! 
 
-If you attended and want to add your name and note, follow the instructions on the [intro-to-github README](https://github.com/sguthals/talkswithdrg/blob/pages/2020/start-dev-change/intro-to-github) for Start.Dev.Change 2020.
+If you attended and want to add your name and note, follow the instructions on the [intro-to-github README](https://github.com/drguthals/talkswithdrg/blob/pages/2020/start-dev-change/intro-to-github) for Start.Dev.Change 2020.
 
 ## Talk Resources
 
@@ -17,9 +17,9 @@ If you attended and want to add your name and note, follow the instructions on t
 
 ## Continue Learning
 
-- [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=SDC-8397-sguthals)
-- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/?WT.mc_id=SDC-8397-sguthals)
-- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?WT.mc_id=SDC-8397-sguthals)
+- [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github/?WT.mc_id=SDC-8397-drguthals)
+- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/?WT.mc_id=SDC-8397-drguthals)
+- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?WT.mc_id=SDC-8397-drguthals)
 - [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Getting Started with Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)

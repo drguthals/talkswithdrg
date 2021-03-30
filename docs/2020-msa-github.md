@@ -6,7 +6,7 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 Check out the [MSA Shareboard](2020-msa-shareboard.md) to see who all attended the talk! 
 
-If you attended and want to add your name and note, follow the instructions on the [intro-to-github README]([intro-to-github/](https://github.com/sguthals/talkswithdrg/blob/pages/2020/msa/intro-to-github/) for the MSAs.
+If you attended and want to add your name and note, follow the instructions on the [intro-to-github README]([intro-to-github/](https://github.com/drguthals/talkswithdrg/blob/pages/2020/msa/intro-to-github/) for the MSAs.
 
 ## Continue Learning
 

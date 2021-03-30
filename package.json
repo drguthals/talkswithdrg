@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sguthals/talkswithdrg.git"
+    "url": "git+https://github.com/drguthals/talkswithdrg.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sguthals/talkswithdrg/issues"
+    "url": "https://github.com/drguthals/talkswithdrg/issues"
   },
-  "homepage": "https://github.com/sguthals/talkswithdrg#readme",
+  "homepage": "https://github.com/drguthals/talkswithdrg#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@actions/github": "^4.0.0",

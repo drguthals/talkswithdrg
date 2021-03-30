@@ -10,20 +10,11 @@ Generally, the best place to find my content is on YouTube:
 - [Dr Guthals](https://www.youtube.com/channel/UCgvODZ135iGUbhqE9bSjVSg) - Focused on the adult developer, here you can find tech talks, panels/interviews, live streams, and more!
 - [We Can with Dr G](https://www.youtube.com/channel/UC-iq8A4aamvIWVf038rWcyw) - Focused on the younger developer, here you can find a lot of Minecraft, block-based coding, and intro level fun!
 
-I also am doing a lot more streaming these days! Join me and my friends as we build, break, and play at [twitch.tv/drguthals](https://www.twitch.tv/drguthals). 
-
-For my day job, I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](https://channel9.msdn.com/Shows/Learn-with-Dr-G) and weekly Live Streams, which you can catch every Tuesday from 3-3:55pm PT on:
-- [Learn TV](https://docs.microsoft.com/learn/tv)
-- [Microsoft Developer Twitch](https://www.twitch.tv/microsoftdeveloper)
-- [Microsoft Developer YouTube](https://www.youtube.com/microsoftdeveloper)
-
-Checkout my [upcoming streams here](streaming.md).
-
 ### Bio and Headshots
 
 Keeping track of bios and headshots is hard...so I am storing them all here!
 
-You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/sguthals/talkswithdrg/tree/main/docs/media).
+You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/drguthals/talkswithdrg/tree/main/docs/media).
 
 ### 2021
 
