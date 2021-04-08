@@ -20,6 +20,7 @@ You can find [bios on this page](bios.md) and [headshots in this folder](https:/
 
 | Event | Dates | Registration |
 |-------|-------| ------------ |
+| [NSBE](2021-nsbe.md) | April 9, 2021 | [Register Now](https://convention.nsbe.org/) |
 | [AI and the Future of Jobs](2021-elmhurst.md) | March 16, 2021 | Private Event for Elmhurst University |
 | [SIGCSE](2021-sigcse.md) | March 13-20, 2021 | [Register Now](http://www.sigcse2021.sigcse.org/) |
 | [Below The Surface: Advancing Women in Technology](2021-barracuda-iwd.md) | March 11, 2021 | [Watch Here](http://bit.ly/AdvWomenPanel) |
