@@ -7,7 +7,7 @@
 - Location: Digital
 - Registration: [Sign Up Here](https://snyk.io/events/the-big-fix)
 
-# GitHub for beginners: collaborating with the dev community
+# Intro to GitHub
 
 GitHub has long served as one of the most popular collaboration tools for developers. Even so, things can get complicated and confusing. In this session, you will be introduced to the basics of GitHub, collaboration workflow and the importance of version control, even for personal projects. Join us as we explore the GitHub tool set and begin leveraging it for your own development and collaboration needs.
 
