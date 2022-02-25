@@ -21,7 +21,7 @@ Did you attend the talk? Add your name to The Big Fix 2022 Shareboard! To do tha
 1. Fork [this repo](https://github.com/drguthals/talkswithdrg)
 2. Create a md file in the the [notes folder](https://github.com/drguthals/talkswithdrg/tree/main/2022/snyk-big-fix/notes) following the [sample.md](https://github.com/drguthals/talkswithdrg/blob/main/2022/snyk-big-fix/notes/sample.md) format
 3. Create a pull request
-4. See you get added to our [Ignite Shareboard](https://github.com/drguthals/talkswithdrg/blob/main/2022/snyk-big-fix/snyk-big-fix-shareboard.md) once it is accepted!
+4. See you get added to our [The Big Fix Shareboard](https://github.com/drguthals/talkswithdrg/blob/main/2022/snyk-big-fix/snyk-big-fix-shareboard.md) once it is accepted!
 
 ## Continue Learning
 
