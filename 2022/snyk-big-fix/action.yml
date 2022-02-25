@@ -1,0 +1,10 @@
+name: 'Welcome to the Shareboard'
+description: 'Add learners to the shareboard'
+inputs:
+  file:
+    description: the shareboard file checked out
+    required: true
+    default: 'output.txt'
+runs:
+  using: 'node12'
+  main: 'index.js'
