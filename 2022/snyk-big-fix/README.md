@@ -23,6 +23,10 @@ Did you attend the talk? Add your name to The Big Fix 2022 Shareboard! To do tha
 3. Create a pull request
 4. See you get added to our [The Big Fix Shareboard](https://github.com/drguthals/talkswithdrg/blob/main/2022/snyk-big-fix/snyk-big-fix-shareboard.md) once it is accepted!
 
+## Snyk Project on GitHub
+
+Check out the [Snyk project on GitHub](https://github.com/snyk) to see ways you can contribute to improving security for everyone!
+
 ## Continue Learning
 
 - [Learn with Dr G Series on Git and GitHub](https://www.youtube.com/playlist?list=PLjoGSbuzyErh7ffELeKxeCtgIBK1n1q9A)
